@@ -1,5 +1,6 @@
 # Controller Toolbox - Dokumentation der Python-Anwendung
 
+
 ## 1. Überblick und Zielsetzung
 
 Die Controller Toolbox ist eine moderne Python-Desktopanwendung, die speziell für Controlling-Aufgaben entwickelt wurde. Sie bietet umfassende Funktionen zur Excel-basierten Datenanalyse, Berichterstellung und Visualisierung in einer intuitiven Benutzeroberfläche. Die Anwendung richtet sich an Controller und Finanzanalysten, die regelmäßig mit Excel-Daten arbeiten und fortgeschrittene Analysen durchführen.
