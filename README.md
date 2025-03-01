@@ -1,4 +1,4 @@
-# Controller Toolbox - Ausführliche Dokumentation der Python-Anwendung
+# Controller Toolbox - Dokumentation der Python-Anwendung
 
 ## 1. Überblick und Zielsetzung
 
