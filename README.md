@@ -1,5 +1,6 @@
 # Controller Toolbox - Dokumentation der Python-Anwendung
 
+![Controller Toolbox Screenshot](https://github.com/ErSieCode/controlling_toolbox/blob/main/controller_toolbox_first_look.jpg)
 
 ## 1. Überblick und Zielsetzung
 
