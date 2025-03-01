@@ -384,7 +384,7 @@ Erstellen Sie die Benutzeroberfläche:
 2. Verbinden Sie die GUI-Signale mit der Anwendungslogik
 3. Implementieren Sie die Session-Verwaltung
 
-#### Schritt 5: Hauptmodul und Anwendungsstart
+#### Schritt 5: Hauptmodul und Anwendungsstart 
 
 1. Implementieren Sie `app/main.py` als Einstiegspunkt
 2. Testen Sie den Anwendungsstart
